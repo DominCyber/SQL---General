@@ -13,10 +13,10 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p>-Coursera Google Cybersecurity Professional Certification Course</p>
 
 ### Steps
-<img src="https://i.imgur.com/4gCpHNb.png" style="width: 85%;" alt="1">
+<img src="https://i.imgur.com/4gCpHNb.png" style="width: 65%;" alt="1">
 <p><i>Ref 1: Example of filtering for login attempts after a restricted time, 18:00, with successes set to a boolean of false, equal to a value of 0</i></p>
 
-<img src="https://i.imgur.com/s3YCduE.png" style="width: 85%;" alt="1">
+<img src="https://i.imgur.com/s3YCduE.png" style="width: 65%;" alt="1">
 <p><i>Ref 2: Example of filtering for login attempts over a 24 hour period</i></p>
 
 <img src="https://i.imgur.com/3WhTLLZ.png" style="width: 85%;" alt="1">
