@@ -20,4 +20,4 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p><i>Ref 2: Example of filtering for login attempts over a 24 hour period</i></p>
 
 <img src="https://i.imgur.com/3WhTLLZ.png" style="width: 85%;" alt="1">
-<p><i>Ref 3: Example of filtering of two databases joined on a single attribute, 'device.id' from the 'machines' database; the LEFT JOIN specifies that values from the first table, 'machines', have priority over 'employees'</i></p>
+<p><i>Ref 3: Example of filtering of two databases joined on a single attribute, 'device.id' from the 'machines' database; the LEFT JOIN specifies that values from the first table, 'machines', have priority over 'employees' but are joined on 'device.id'</i></p>
