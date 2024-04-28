@@ -4,8 +4,8 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 ### Skills Learned
 -Structured query language (SQL) programming language
--Cybersecurity applications of SQL (filtering login attempts)
--relational database structure
+<p>-Cybersecurity applications of SQL (filtering login attempts)</p>
+<p>-relational database structure</p>
 
 ### Tools Used
 -Laptop
