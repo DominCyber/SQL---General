@@ -13,17 +13,11 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p>-Coursera Google Cybersecurity Professional Certification Course</p>
 
 ### Steps
-<img src="" style="width: 85%;" alt="1">
-<p><i>Ref 1:</i></p>
+<img src="https://i.imgur.com/4gCpHNb.png" style="width: 85%;" alt="1">
+<p><i>Ref 1: Example of filtering for login attempts after a restricted time, 18:00, with successes set to a boolean of false, equal to a value of 0</i></p>
 
-As a security analyst, you’ll often find that you need data from more than one table.
+<img src="https://i.imgur.com/s3YCduE.png" style="width: 85%;" alt="1">
+<p><i>Ref 2: Example of filtering for login attempts over a 24 hour period</i></p>
 
-Previously, you learned that a relational database is a structured database containing tables that are related to each other.
-
-SQL joins enable you to combine tables that contain a shared column. This is helpful when you need to connect information that appears in different tables.
-
-In this lab activity, you’ll use SQL joins to connect separate tables and retrieve needed information.
-
-Get ready to apply what you’ve learned and join some data!
-
-Task 1. Retrieve after hours failed login attempts
+<img src="https://i.imgur.com/3WhTLLZ.png" style="width: 85%;" alt="1">
+<p><i>Ref 3: Example of filtering of two databases joined on a single attribute, 'device.id' from the 'machines' database; the LEFT JOIN specifies that values from the first table, 'machines', have priority over 'employees'</i></p>
